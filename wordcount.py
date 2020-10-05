@@ -1,5 +1,4 @@
 import sys
-from collections import Counter
 
 def count_words():
     """Return dictionary of word counts in the passed file."""
