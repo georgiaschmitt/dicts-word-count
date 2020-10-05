@@ -14,5 +14,5 @@ def count_words(filename):
     for word, count in sorted(word_counts.items()):
         print(word, count)
 
-#count_words("test.txt")
-count_words("twain.txt")
+count_words("test.txt")
+#count_words("twain.txt")
